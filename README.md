@@ -19,4 +19,4 @@
 📧 Connect on [LinkedIn](https://linkedin.com/in/ryan-sise-81a59221)
 
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryansise&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansise)](https://github.com/anuraghazra/github-readme-stats)
